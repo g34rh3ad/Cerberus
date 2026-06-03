@@ -40,7 +40,7 @@ cd video-morse-encryptor
 
 ### 2. Environment Setup
 
-#### 🍎 macOS & 🐧 Linux
+#### MacOS & Linux
 ```bash
 # Create a virtual environment
 python3 -m venv venv
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-#### 🪟 Windows
+#### Windows
 ```cmd
 :: Create a virtual environment
 python -m venv venv
