@@ -31,21 +31,51 @@
 
 > **Prerequisites:** Python 3.10+
 
+### 1. Clone the Repository
+
 ```bash
-# Clone
 git clone https://github.com/g34rh3ad/video-morse-encryptor.git
 cd video-morse-encryptor
+```
 
-# Setup
+### 2. Environment Setup
+
+#### 🍎 macOS & 🐧 Linux
+```bash
+# Create a virtual environment
 python3 -m venv venv
+
+# Activate the virtual environment
 source venv/bin/activate
+
+# Install dependencies
 pip install -r requirements.txt
 
-# Run
+# Run the app
 python app.py
 ```
 
-Open **http://localhost:5002** in your browser.
+#### 🪟 Windows
+```cmd
+:: Create a virtual environment
+python -m venv venv
+
+:: Activate the virtual environment (Command Prompt)
+venv\Scripts\activate
+
+:: OR Activate the virtual environment (PowerShell)
+:: .\venv\Scripts\Activate.ps1
+
+:: Install dependencies
+pip install -r requirements.txt
+
+:: Run the app
+python app.py
+```
+
+---
+
+Open **http://localhost:5002** in your web browser.
 
 ---
 
