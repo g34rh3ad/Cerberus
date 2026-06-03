@@ -429,8 +429,6 @@ if __name__ == "__main__":
 
     print("=" * 58)
     print("  🔐  Video-Morse Encryptor")
-    print(f"  📡  {len(_MORSE)} Morse codes loaded from morse.db")
-    print("  ✅  Roundtrip verification passed")
     print("  🌐  Open in browser: http://localhost:5002")
     print("=" * 58)
     app.run(debug=False, host="0.0.0.0", port=5002)
