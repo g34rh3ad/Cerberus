@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
 </p>
 
-<h1 align="center">◉ Video Morse Encryptor</h1>
+<h1 align="center">◉ Cerberus</h1>
 
 <p align="center">
   Encrypt video files with AES-256-CBC and convert the ciphertext into Morse code.<br>
