@@ -34,8 +34,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/g34rh3ad/video-morse-encryptor.git
-cd video-morse-encryptor
+git clone https://github.com/g34rh3ad/Cerberus.git
+cd Cerberus
 ```
 
 ### 2. Environment Setup
@@ -102,7 +102,7 @@ Open **http://localhost:5002** in your web browser.
 ## ✦ Project Structure
 
 ```
-video-morse-encryptor/
+Cerberus/
 │
 ├── app.py                 # Flask backend — crypto, Morse engine, routes
 ├── templates/
