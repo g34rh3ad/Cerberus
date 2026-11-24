@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-3.0+-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/encryption-AES--256--CBC-292524?style=for-the-badge&logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
 </p>
 
